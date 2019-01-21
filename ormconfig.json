@@ -1,0 +1,9 @@
+{
+  "type": "mysql",
+  "host": "devportal.c75phpbjxv4p.eu-west-1.rds.amazonaws.com",
+  "port": 3306,
+  "username": "devportal",
+  "password": "4UCpFU425FCGSRrh",
+  "database": "devportaldb",
+  "synchronize": true
+}
